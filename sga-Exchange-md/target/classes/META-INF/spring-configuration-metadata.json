@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "talend",
+      "type": "ma.fm6education.sga.exchange.config.JobsProperties",
+      "sourceType": "ma.fm6education.sga.exchange.config.JobsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "talend.name",
+      "type": "java.lang.String",
+      "sourceType": "ma.fm6education.sga.exchange.config.JobsProperties"
+    },
+    {
+      "name": "talend.password",
+      "type": "java.lang.String",
+      "sourceType": "ma.fm6education.sga.exchange.config.JobsProperties"
+    },
+    {
+      "name": "talend.port",
+      "type": "java.lang.String",
+      "sourceType": "ma.fm6education.sga.exchange.config.JobsProperties"
+    },
+    {
+      "name": "talend.url",
+      "type": "java.lang.String",
+      "sourceType": "ma.fm6education.sga.exchange.config.JobsProperties"
+    },
+    {
+      "name": "talend.username",
+      "type": "java.lang.String",
+      "sourceType": "ma.fm6education.sga.exchange.config.JobsProperties"
+    }
+  ],
+  "hints": []
+}
